@@ -397,6 +397,9 @@
     width: 12rem;
 }
 
+.section_qualificacoes .container_qualificacoes .lista .li .header_qualificacoes .curso-aws {
+    width: 8rem;
+}
 .section_qualificacoes .container_qualificacoes .lista .li .header_qualificacoes .curso-npi {
     width: 6rem;
 }
